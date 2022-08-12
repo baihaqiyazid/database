@@ -1,0 +1,79 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Towi",
+            "address": "Jl. Kalimalang"
+        },
+        {
+            "id": 2,
+            "name": "Soni",
+            "address": "Jl. Surabaya"
+        },
+        {
+            "id": 3,
+            "name": "Ariana",
+            "address": "Jl. Malang"
+        },
+        {
+            "id": 4,
+            "name": "Romi",
+            "address": "Jl. Kota Baru"
+        },
+        {
+            "id": 5,
+            "name": "Bella",
+            "address": "Jl. Mampang"
+        },
+        {
+            "id": 6,
+            "name": "Grande",
+            "address": "Jl. Kebagusan"
+        },
+        {
+            "id": 7,
+            "name": "Salma",
+            "address": "Jl. Pondok Indah"
+        },
+        {
+            "id": 8,
+            "name": "Rani",
+            "address": "Jl. Maharani"
+        },
+        {
+            "id": 9,
+            "name": "Tiara",
+            "address": "Jl. Mutiara"
+        },
+        {
+            "id": 10,
+            "name": "Marshel",
+            "address": "Jl. Condet Raya"
+        },
+        {
+            "id": 11,
+            "name": "Rio",
+            "address": "Jl. Muara"
+        },
+        {
+            "id": 12,
+            "name": "Hizkia",
+            "address": "Jl. Surabaya"
+        },
+        {
+            "id": 13,
+            "name": "Ananda",
+            "address": "Jl. Anyar"
+        },
+        {
+            "id": 14,
+            "name": "Putri",
+            "address": "Jl. Kp. Pulo"
+        },
+        {
+            "id": 15,
+            "name": "Silva",
+            "address": "Jl. Pabuaran"
+        }
+    ]
+}
